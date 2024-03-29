@@ -4,12 +4,12 @@
 
 ## Introduction
 
-This is a number sorter app where users can enter an array of values to sort them.
+This is a number sorter app where users can enter an array of numbers to sort them.
 
 ## Features
 
 - **Responsive Design**: The design adjusts itself to different screen sizes.
-- **Sorting**: Users can enter an array of values to sort them.
+- **Sorting**: Users can enter an array of numbers to sort them.
 
 ## Technologies Used
 
